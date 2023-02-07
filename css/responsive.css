@@ -1,0 +1,39 @@
+@media (max-width:767px) {
+    .img-thumbnail-2 {
+        border: 0;
+    }
+
+    .footer-para {
+        width: 100%;
+    }
+
+    .contact-left-box {
+        position: unset;
+    }
+
+    .contact-container {
+        width: 100%;
+    }
+    .border-right{
+        border-right: 0;
+    }
+    .border-left{
+        border-left: 0;
+    }
+    .about-card:hover{
+        /* transform: translateY(-10px);   */
+        scale: 1;
+        box-shadow: 0 0;
+      }
+      .about-card{
+     padding: 5px 0 10px; 
+     margin-bottom: 50px; 
+      }
+      .about-card p{
+        font-size: 20px;
+      }
+      .social-icon-abt {
+        font-size: 25px;
+       
+    }
+}
